@@ -6,7 +6,6 @@ html {
 *::after,
 *::before {
   box-sizing: inherit;
-
 }
 
 html,
@@ -17,15 +16,14 @@ body {
 }
 
 h2 {
-text-align: center;
-font-size: 2em;
-color: #016596;
+  text-align: center;
+  font-size: 2em;
+  color: #016596;
 }
 
 .container {
   max-width: 1300px;
   margin: 0 auto;
-
 }
 
 .buttons {
