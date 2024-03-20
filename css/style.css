@@ -88,3 +88,14 @@ h2 {
 .btn:disabled {
   box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
 }
+
+
+.btn {
+  position: relative;
+}
+
+.buttons span {
+  font-size: 14px;
+  position: absolute;
+  bottom: 5px;
+}
